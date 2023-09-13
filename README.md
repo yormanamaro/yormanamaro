@@ -1,19 +1,17 @@
 ### Hi I' m Yorman Amaro 👋👨🏽‍💻⚡️✨🛰
 ![Yorman Amaro (2)](https://github.com/yormanamaro/yormanamaro/assets/79338617/2c84d0c4-829b-4f99-8f20-40ce77bbfc0d)
 
-const thai = {
-  pronouns: "He" | "her",
-  code: [Javascript, Typescript, HTML, CSS, php],
-  tools: [React, Redux, Node, express, Styled-Components, Jest,next js],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "HTML Hijos de su madre libres",
-                        speaker: "De junior a junior",
-                        mentor: "Miguel Chamorro"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+```js
+const yormanamaro = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, JavaScript, TypeScript, PHP, Nodejs],
+  tools: [React, Next.js, Express.js, Jest, Style-Components, git]
 }
-
+```
+You can find me 🌎🌍🌏:
+- [web] https://yormanamaro.github.io/YA-Personal-Web/
+- [Linkedin] https://www.linkedin.com/in/yormanamaro-dev/
+- [Podcast] https://open.spotify.com/show/4jP1Q1glVL17hN3PtJQ37R?si=36cc693d3d1743d9  
 <!--
 **yormanamaro/yormanamaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
