@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I' m Yorman Amaro 👋👨🏽‍💻⚡️✨🛰
+![Yorman Amaro (2)](https://github.com/yormanamaro/yormanamaro/assets/79338617/2c84d0c4-829b-4f99-8f20-40ce77bbfc0d)
 <!--
 **yormanamaro/yormanamaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
