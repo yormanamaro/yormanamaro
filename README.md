@@ -19,7 +19,14 @@ const yormanamaro = {
 You can find me 🌎🌍🌏:
 - [web] https://yormanamaro.github.io/YA-Personal-Web/
 - [Linkedin] https://www.linkedin.com/in/yormanamaro-dev/
-- [Podcast] https://open.spotify.com/show/4jP1Q1glVL17hN3PtJQ37R?si=36cc693d3d1743d9  
+- [Podcast] https://open.spotify.com/show/4jP1Q1glVL17hN3PtJQ37R?si=36cc693d3d1743d9
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
+ <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
+ <a href="https://www.linkedin.com/in/priyanshu-tiwari-b85a7a194/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
 <!--
 **yormanamaro/yormanamaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
