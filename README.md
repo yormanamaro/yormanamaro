@@ -4,9 +4,16 @@
 ```js
 const yormanamaro = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, JavaScript, TypeScript, PHP, Nodejs],
-  tools: [React, Next.js, Express.js, Jest, Style-Components, git]
-  biography: "I am a Venezuelan and Barquisimetan who is passionate about technology since I was very <br>young. I studied business administration and recently graduated as a Software Developer. I live in Santiago de Chile for more than 8 years, I consider myself a great communicator and I love to share it through YouTube and podcasts among others; I am a lover of coffee and outdoor sports such as running and swimming."
+  code: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Nodejs"],
+  tools: ["React", "Next.js", "Express.js", "Jest", "Style-Components", "git", "mongoDB"]
+  biography = {
+                Nationality: "Venezuelan",
+                CurrentResidence: "Santiago of Chile",
+                Education: ["Software developer", "Business Administrator"],
+                Fortress: "Communication",
+                CommunityContributions: ["Youtube","Podcast","Articles"],
+                Hobbies: ["I am a lover of coffee","outdoor sports","running","swimming"]
+              }
 }
 ```
 You can find me 🌎🌍🌏:
