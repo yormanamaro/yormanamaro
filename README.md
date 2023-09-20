@@ -5,7 +5,7 @@
 const yormanamaro = {
   pronouns: "he" | "him",
   code: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Nodejs"],
-  tools: ["React", "Next.js", "Express.js", "Jest", "Style-Components", "git", "mongoDB"]
+  tools: ["React", "Next.js", "Express.js", "Jest", "Style-Components", "git", "mongoDB"],
   biography = {
                 Nationality: "Venezuelan",
                 CurrentResidence: "Santiago of Chile",
@@ -13,8 +13,8 @@ const yormanamaro = {
                 Fortress: "Communication",
                 CommunityContributions: ["Youtube","Podcast","Articles"],
                 Hobbies: ["I am a lover of coffee","outdoor sports","running","swimming"]
-              }
-}
+              };
+};
 ```
 You can find me 🌎🌍🌏:
 - [web] https://yormanamaro.github.io/YA-Personal-Web/
